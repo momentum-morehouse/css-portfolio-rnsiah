@@ -1,0 +1,48 @@
+body *{
+    margin:18px 0;
+    font-family: "Cabin", sans-serif;
+    font-weight: normal;
+    color:white;
+}
+
+.style{
+    background-color: black;
+    padding: 8px;
+    border-radius: 10px;
+   
+    
+}
+
+nav{
+  display: flex;
+  justify-content:space-around;
+  align-items:center;
+  
+}
+
+img{
+  margin:auto
+}
+
+
+h3 {
+  color:white;
+  font-size:14;
+
+}
+
+footer{
+  height: 12%
+}
+
+top{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between
+}
+
+section{
+  display:flex;
+  flex-direction:row
+}
+
